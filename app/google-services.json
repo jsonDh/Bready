@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878472497007",
+    "project_id": "breadmachine-83a7a",
+    "storage_bucket": "breadmachine-83a7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878472497007:android:83829e31fff12238fd0a9a",
+        "android_client_info": {
+          "package_name": "com.json.bready"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878472497007-c4ac924q3dvavr9neo5mlq9oligmp9d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfyhGgV7iA95TJM3zHyf4c5XugQg_AowY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878472497007-c4ac924q3dvavr9neo5mlq9oligmp9d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
